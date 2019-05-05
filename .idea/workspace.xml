@@ -12,16 +12,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1556938208550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$100chickens.coverage" NAME="100chickens Coverage Results" MODIFIED="1556937611096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci__1_.coverage" NAME="fibonacci (1) Coverage Results" MODIFIED="1557055192474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$max.coverage" NAME="max Coverage Results" MODIFIED="1557059454249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$list4.coverage" NAME="list4 Coverage Results" MODIFIED="1557055037770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$code.coverage" NAME="code Coverage Results" MODIFIED="1557058361326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$prime_number.coverage" NAME="prime_number Coverage Results" MODIFIED="1556883991499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$which_day.coverage" NAME="which_day Coverage Results" MODIFIED="1557060010268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$game_.coverage" NAME="game# Coverage Results" MODIFIED="1557064213647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$craps.coverage" NAME="craps Coverage Results" MODIFIED="1556941350264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$Joseph_ring.coverage" NAME="Joseph_ring Coverage Results" MODIFIED="1557062750172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$str.coverage" NAME="str Coverage Results" MODIFIED="1557054218682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$list2.coverage" NAME="list2 Coverage Results" MODIFIED="1557054581050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$triangle_pattern.coverage" NAME="triangle_pattern Coverage Results" MODIFIED="1556886922545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$carousel_text.coverage" NAME="carousel_text Coverage Results" MODIFIED="1557057777119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1557060911549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1557055108445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$dict.coverage" NAME="dict Coverage Results" MODIFIED="1557056440444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$narcissistic_number.coverage" NAME="narcissistic_number Coverage Results" MODIFIED="1556934481460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$double_ball.coverage" NAME="double_ball Coverage Results" MODIFIED="1557061112086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$five_fish.coverage" NAME="five_fish Coverage Results" MODIFIED="1556940302823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
     <SUITE FILE_PATH="coverage/my_pthon_100$GCD_and_LCM.coverage" NAME="GCD_and_LCM Coverage Results" MODIFIED="1556884504813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$perfect_number.coverage" NAME="perfect_number Coverage Results" MODIFIED="1556936665166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$100chickens.coverage" NAME="100chickens Coverage Results" MODIFIED="1556937611096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$craps.coverage" NAME="craps Coverage Results" MODIFIED="1556941350264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$triangle_pattern.coverage" NAME="triangle_pattern Coverage Results" MODIFIED="1556886922545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$narcissistic_number.coverage" NAME="narcissistic_number Coverage Results" MODIFIED="1556934481460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1556980829893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$filename.coverage" NAME="filename Coverage Results" MODIFIED="1557059168420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1557053886355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$_.coverage" NAME="# Coverage Results" MODIFIED="1557063546431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -40,22 +55,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="text.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day6-函数和模块的使用/text.md">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/text.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="123">
-                <caret line="277" lean-forward="true" selection-start-line="277" selection-end-line="277" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="596">
+                <caret line="804" column="37" selection-start-line="804" selection-start-column="37" selection-end-line="804" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5-总结和练习/test.py">
+      <file leaf-file-name="game#.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="425">
+              <caret line="34" column="24" lean-forward="true" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-346307403/nt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="546" column="4" selection-start-line="546" selection-start-column="4" selection-end-line="546" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Joseph_ring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="double_ball.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triangle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
               <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="which_day.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/which_day.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="max.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/max.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filename.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/filename.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -68,6 +155,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clea</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,6 +180,27 @@
         <option value="$PROJECT_DIR$/day5-总结和练习/text.md" />
         <option value="$PROJECT_DIR$/day5-总结和练习/test.py" />
         <option value="$PROJECT_DIR$/day6-函数和模块的使用/text.md" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/str.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list1.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list2.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list3.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list4.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/fibonacci.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/tuple.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/set.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/dict.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/carousel_text.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/code.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/filename.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/max.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/which_day.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/#.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py" />
+        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/text.md" />
       </list>
     </option>
   </component>
@@ -100,9 +213,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="855" />
+    <option name="y" value="27" />
+    <option name="width" value="617" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -120,12 +234,13 @@
             <path>
               <item name="my-pthon-100" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-pthon-100" type="462c0819:PsiDirectoryNode" />
-              <item name="day5-总结和练习" type="462c0819:PsiDirectoryNode" />
+              <item name="day7-字符串和常用的数据结构" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-pthon-100" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-pthon-100" type="462c0819:PsiDirectoryNode" />
-              <item name="day6-函数和模块的使用" type="462c0819:PsiDirectoryNode" />
+              <item name="day7-字符串和常用的数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,8 +268,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="100chickens" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.game#">
+    <configuration name="Joseph_ring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,18 +277,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-总结和练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5-总结和练习/100chickens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="craps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="#" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,18 +296,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-总结和练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5-总结和练习/craps.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\月上秦少\Desktop\my-pthon-100\day7-字符串和常用的数据结构\exam\game#.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="double_ball" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,18 +315,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-总结和练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5-总结和练习/fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="five_fish" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="game#" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,18 +334,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-总结和练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5-总结和练习/five_fish.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,31 +353,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day5-总结和练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day5-总结和练习/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.100chickens" />
-      <item itemvalue="Python.fibonacci" />
-      <item itemvalue="Python.five_fish" />
-      <item itemvalue="Python.craps" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.triangle" />
+      <item itemvalue="Python.double_ball" />
+      <item itemvalue="Python.Joseph_ring" />
+      <item itemvalue="Python.#" />
+      <item itemvalue="Python.game#" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.craps" />
-        <item itemvalue="Python.five_fish" />
-        <item itemvalue="Python.fibonacci" />
-        <item itemvalue="Python.100chickens" />
+        <item itemvalue="Python.game#" />
+        <item itemvalue="Python.#" />
+        <item itemvalue="Python.Joseph_ring" />
+        <item itemvalue="Python.double_ball" />
+        <item itemvalue="Python.triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -280,16 +395,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="855" y="27" width="617" height="1057" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.27831715" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38017428" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3279396" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28446388" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2777778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28431374" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33115467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3195691" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32932165" />
@@ -457,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day5-总结和练习/five_fish.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -550,16 +659,183 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day5-总结和练习/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="576">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day6-函数和模块的使用/text.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="123">
-            <caret line="277" lean-forward="true" selection-start-line="277" selection-end-line="277" />
+          <first_editor relative-caret-position="744">
+            <caret line="312" column="3" lean-forward="true" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-346307403/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <caret line="517" column="8" lean-forward="true" selection-start-line="517" selection-start-column="8" selection-end-line="517" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="887" column="11" selection-start-line="887" selection-start-column="11" selection-end-line="887" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5-总结和练习/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="11" lean-forward="true" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/carousel_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#116#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/filename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/which_day.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-346307403/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="546" column="4" selection-start-line="546" selection-start-column="4" selection-end-line="546" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="24" lean-forward="true" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="596">
+            <caret line="804" column="37" selection-start-line="804" selection-start-column="37" selection-end-line="804" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
