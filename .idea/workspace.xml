@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee296aab-d6f3-4b8e-b434-2312c3763516" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ee296aab-d6f3-4b8e-b434-2312c3763516" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +30,29 @@
     <SUITE FILE_PATH="coverage/my_pthon_100$carousel_text.coverage" NAME="carousel_text Coverage Results" MODIFIED="1557057777119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1557239536307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1557055108445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$entry_text.coverage" NAME="entry_text Coverage Results" MODIFIED="1557494379071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/img" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$checkbutton.coverage" NAME="checkbutton Coverage Results" MODIFIED="1557495613967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$message_box.coverage" NAME="message_box Coverage Results" MODIFIED="1557497596162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$dict.coverage" NAME="dict Coverage Results" MODIFIED="1557056440444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$narcissistic_number.coverage" NAME="narcissistic_number Coverage Results" MODIFIED="1556934481460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$list_box.coverage" NAME="list_box Coverage Results" MODIFIED="1557495090081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$double_ball.coverage" NAME="double_ball Coverage Results" MODIFIED="1557061112086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$scale.coverage" NAME="scale Coverage Results" MODIFIED="1557495457505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$menubar.coverage" NAME="menubar Coverage Results" MODIFIED="1557496116240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$canvas.coverage" NAME="canvas Coverage Results" MODIFIED="1557495885527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$is_a.coverage" NAME="is_a Coverage Results" MODIFIED="1557241148003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$ultraman.coverage" NAME="ultraman Coverage Results" MODIFIED="1557241840492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$five_fish.coverage" NAME="five_fish Coverage Results" MODIFIED="1556940302823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
     <SUITE FILE_PATH="coverage/my_pthon_100$poly_morphism.coverage" NAME="poly_morphism Coverage Results" MODIFIED="1557241492150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$GCD_and_LCM.coverage" NAME="GCD_and_LCM Coverage Results" MODIFIED="1556884504813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$perfect_number.coverage" NAME="perfect_number Coverage Results" MODIFIED="1556936665166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$frame.coverage" NAME="frame Coverage Results" MODIFIED="1557496221039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$button_label.coverage" NAME="button_label Coverage Results" MODIFIED="1557493856259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$person.coverage" NAME="person Coverage Results" MODIFIED="1557239076930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$filename.coverage" NAME="filename Coverage Results" MODIFIED="1557059168420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$salary.coverage" NAME="salary Coverage Results" MODIFIED="1557242526060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1557053886355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$radio.coverage" NAME="radio Coverage Results" MODIFIED="1557495328251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1557318242366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
     <SUITE FILE_PATH="coverage/my_pthon_100$_.coverage" NAME="# Coverage Results" MODIFIED="1557063546431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
   </component>
   <component name="DatabaseView">
@@ -63,101 +71,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="text.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/text.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="108">
-                <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="text.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/text.md">
+        <entry file="file://$PROJECT_DIR$/Day11-文件和异常/text.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="533">
+                <caret line="255" column="292" selection-start-line="255" selection-start-column="292" selection-end-line="255" selection-end-column="292" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/salary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="86" lean-forward="true" selection-end-line="105" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ultraman.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/ultraman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="154" column="7" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
-              <folding>
-                <element signature="e#95#134#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="card.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/card.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poly_morphism.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="is_a.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/is_a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="91" column="9" lean-forward="true" selection-end-line="92" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clock.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/clock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="person.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/person.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="triangle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/triangle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -182,16 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day4-循环结构/prime_number.py" />
-        <option value="$PROJECT_DIR$/day4-循环结构/GCD_and_LCM.py" />
-        <option value="$PROJECT_DIR$/day4-循环结构/triangle_pattern.py" />
-        <option value="$PROJECT_DIR$/day4-循环结构/text.md" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/narcissistic_number.py" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/perfect_number.py" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/100chickens.py" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/fibonacci.py" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/five_fish.py" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/craps.py" />
         <option value="$PROJECT_DIR$/day5-总结和练习/text.md" />
         <option value="$PROJECT_DIR$/day5-总结和练习/test.py" />
         <option value="$PROJECT_DIR$/day6-函数和模块的使用/text.md" />
@@ -228,6 +139,21 @@
         <option value="$PROJECT_DIR$/day9-面向对象进阶/card.py" />
         <option value="$PROJECT_DIR$/day9-面向对象进阶/salary.py" />
         <option value="$PROJECT_DIR$/day9-面向对象进阶/text.md" />
+        <option value="$PROJECT_DIR$/day10/test.py" />
+        <option value="$PROJECT_DIR$/day10/text.md" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/button_label.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/img/entry_text.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/list_box.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/radio.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/scale.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/checkbutton.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/canvas.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/menubar.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/frame.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/message_box.py" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md" />
+        <option value="$PROJECT_DIR$/Day10-图形用户界面游戏开发~Pygame/text.md" />
+        <option value="$PROJECT_DIR$/Day11-文件和异常/text.md" />
       </list>
     </option>
   </component>
@@ -240,10 +166,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="532" />
-    <option name="y" value="49" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="385" />
+    <option name="y" value="16" />
+    <option name="width" value="1248" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -261,7 +187,7 @@
             <path>
               <item name="my-pthon-100" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-pthon-100" type="462c0819:PsiDirectoryNode" />
-              <item name="day9-面向对象进阶" type="462c0819:PsiDirectoryNode" />
+              <item name="Day11-文件和异常" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -279,9 +205,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter\img" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter" />
       <recent name="C:\Users\月上秦少\Desktop\my-pthon-100" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter\img" />
       <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day8-面向对象编程基础" />
     </key>
   </component>
@@ -297,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.salary">
-    <configuration name="card" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.message_box">
+    <configuration name="canvas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,18 +235,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9-面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9-面向对象进阶/card.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/canvas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="is_a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,18 +254,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9-面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9-面向对象进阶/is_a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/checkbutton.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="poly_morphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,18 +273,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9-面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/frame.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="salary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="menubar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,18 +292,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9-面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9-面向对象进阶/salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/menubar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ultraman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="message_box" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,31 +311,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day9-面向对象进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day9-面向对象进阶/ultraman.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/message_box.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.is_a" />
-      <item itemvalue="Python.poly_morphism" />
-      <item itemvalue="Python.ultraman" />
-      <item itemvalue="Python.card" />
-      <item itemvalue="Python.salary" />
+      <item itemvalue="Python.checkbutton" />
+      <item itemvalue="Python.canvas" />
+      <item itemvalue="Python.menubar" />
+      <item itemvalue="Python.frame" />
+      <item itemvalue="Python.message_box" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.salary" />
-        <item itemvalue="Python.card" />
-        <item itemvalue="Python.ultraman" />
-        <item itemvalue="Python.poly_morphism" />
-        <item itemvalue="Python.is_a" />
+        <item itemvalue="Python.message_box" />
+        <item itemvalue="Python.frame" />
+        <item itemvalue="Python.menubar" />
+        <item itemvalue="Python.canvas" />
+        <item itemvalue="Python.checkbutton" />
       </list>
     </recent_temporary>
   </component>
@@ -430,13 +359,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2777778" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46078432" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33115467" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07036247" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32901832" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2772384" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14670981" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33009708" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -447,7 +377,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,135 +413,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/100chickens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/five_fish.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/craps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="28" column="22" lean-forward="true" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="36">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2-语言元素/leap_year.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2-语言元素/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="22" column="25" lean-forward="true" selection-end-line="237" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day3-分支结构/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day1-初识python/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4-循环结构/triangle_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day4-循环结构/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="148" column="10" selection-start-line="148" selection-start-column="10" selection-end-line="148" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="5094">
-            <caret line="283" column="3" lean-forward="true" selection-start-line="283" selection-start-column="3" selection-end-line="283" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day6-函数和模块的使用/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="744">
-            <caret line="312" column="3" lean-forward="true" selection-start-line="312" selection-start-column="3" selection-end-line="312" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-346307403/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-729">
-          <caret line="517" column="8" lean-forward="true" selection-start-line="517" selection-start-column="8" selection-end-line="517" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="887" column="11" selection-start-line="887" selection-start-column="11" selection-end-line="887" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day5-总结和练习/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -803,28 +603,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/clock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="427">
           <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/is_a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
+        <state relative-caret-position="751">
           <caret line="91" column="9" lean-forward="true" selection-end-line="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py">
+    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="67">
+            <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/salary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        <state relative-caret-position="427">
+          <caret line="86" lean-forward="true" selection-end-line="105" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/ultraman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
+        <state relative-caret-position="67">
           <caret line="154" column="7" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
           <folding>
             <element signature="e#95#134#0" expanded="true" />
@@ -839,18 +649,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/salary.py">
+    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="86" lean-forward="true" selection-end-line="105" selection-end-column="9" />
+        <state relative-caret-position="733">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/text.md">
+    <entry file="file://$PROJECT_DIR$/../PYTHON/hello.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#95#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/button_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/list_box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/radio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/entry_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/img/radio.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/scale.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/checkbutton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/canvas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/menubar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/message_box.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#101#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="355">
-            <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <first_editor relative-caret-position="239">
+            <caret line="537" column="48" lean-forward="true" selection-end-line="558" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day10-图形用户界面游戏开发~Pygame/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day11-文件和异常/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="533">
+            <caret line="255" column="292" selection-start-line="255" selection-start-column="292" selection-end-line="255" selection-end-column="292" />
           </first_editor>
           <second_editor />
         </state>
