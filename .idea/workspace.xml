@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee296aab-d6f3-4b8e-b434-2312c3763516" name="Default" comment="" />
+    <list default="true" id="ee296aab-d6f3-4b8e-b434-2312c3763516" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md" beforeDir="false" afterPath="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,49 +15,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/my_pthon_100$do_thread__1_.coverage" NAME="do_thread (1) Coverage Results" MODIFIED="1557588006686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$100chickens.coverage" NAME="100chickens Coverage Results" MODIFIED="1556937611096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
     <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci__1_.coverage" NAME="fibonacci (1) Coverage Results" MODIFIED="1557055192474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$max.coverage" NAME="max Coverage Results" MODIFIED="1557059454249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$list4.coverage" NAME="list4 Coverage Results" MODIFIED="1557055037770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$card.coverage" NAME="card Coverage Results" MODIFIED="1557242214712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$no_process.coverage" NAME="no_process Coverage Results" MODIFIED="1557582000960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$with_lock.coverage" NAME="with_lock Coverage Results" MODIFIED="1557588405755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$sub_process.coverage" NAME="sub_process Coverage Results" MODIFIED="1557586794452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~进程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$clock.coverage" NAME="clock Coverage Results" MODIFIED="1557150781502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8-面向对象编程基础" />
     <SUITE FILE_PATH="coverage/my_pthon_100$code.coverage" NAME="code Coverage Results" MODIFIED="1557058361326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$point.coverage" NAME="point Coverage Results" MODIFIED="1557151243359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8-面向对象编程基础" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$prime_number.coverage" NAME="prime_number Coverage Results" MODIFIED="1556883991499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$clock__1_.coverage" NAME="clock (1) Coverage Results" MODIFIED="1557240387801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$which_day.coverage" NAME="which_day Coverage Results" MODIFIED="1557060010268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$width_process.coverage" NAME="width_process Coverage Results" MODIFIED="1557581970103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$connect_process.coverage" NAME="connect_process Coverage Results" MODIFIED="1557584702416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$game_.coverage" NAME="game# Coverage Results" MODIFIED="1557064213647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$craps.coverage" NAME="craps Coverage Results" MODIFIED="1556941350264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$Joseph_ring.coverage" NAME="Joseph_ring Coverage Results" MODIFIED="1557062750172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$str.coverage" NAME="str Coverage Results" MODIFIED="1557054218682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$list2.coverage" NAME="list2 Coverage Results" MODIFIED="1557054581050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$triangle_pattern.coverage" NAME="triangle_pattern Coverage Results" MODIFIED="1556886922545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$demo_process.coverage" NAME="demo_process Coverage Results" MODIFIED="1558015086537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$carousel_text.coverage" NAME="carousel_text Coverage Results" MODIFIED="1557057777119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1557239536307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1557055108445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$entry_text.coverage" NAME="entry_text Coverage Results" MODIFIED="1557494379071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/img" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$checkbutton.coverage" NAME="checkbutton Coverage Results" MODIFIED="1557495613967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$message_box.coverage" NAME="message_box Coverage Results" MODIFIED="1557497596162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$dict.coverage" NAME="dict Coverage Results" MODIFIED="1557056440444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$narcissistic_number.coverage" NAME="narcissistic_number Coverage Results" MODIFIED="1556934481460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$list_box.coverage" NAME="list_box Coverage Results" MODIFIED="1557495090081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$deposit.coverage" NAME="deposit Coverage Results" MODIFIED="1557588198028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$double_ball.coverage" NAME="double_ball Coverage Results" MODIFIED="1557061112086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
     <SUITE FILE_PATH="coverage/my_pthon_100$scale.coverage" NAME="scale Coverage Results" MODIFIED="1557495457505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$menubar.coverage" NAME="menubar Coverage Results" MODIFIED="1557496116240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$canvas.coverage" NAME="canvas Coverage Results" MODIFIED="1557495885527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$is_a.coverage" NAME="is_a Coverage Results" MODIFIED="1557241148003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$GCD_and_LCM.coverage" NAME="GCD_and_LCM Coverage Results" MODIFIED="1556884504813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$frame.coverage" NAME="frame Coverage Results" MODIFIED="1557496221039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$re_qq.coverage" NAME="re_qq Coverage Results" MODIFIED="1557541462410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12-字符串和正则表达式" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$do_thread.coverage" NAME="do_thread Coverage Results" MODIFIED="1557587910469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$person.coverage" NAME="person Coverage Results" MODIFIED="1557239076930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$salary.coverage" NAME="salary Coverage Results" MODIFIED="1557242526060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1557318242366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$pool.coverage" NAME="pool Coverage Results" MODIFIED="1557583481919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$ten_sort.coverage" NAME="ten_sort Coverage Results" MODIFIED="1558015095556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day-python进阶~十大经典排序算法" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$list4.coverage" NAME="list4 Coverage Results" MODIFIED="1557055037770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$phone_re.coverage" NAME="phone_re Coverage Results" MODIFIED="1557542948437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day12-字符串和正则表达式" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$card.coverage" NAME="card Coverage Results" MODIFIED="1557242214712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1557632762011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$point.coverage" NAME="point Coverage Results" MODIFIED="1557151243359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day8-面向对象编程基础" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$use_threadlocal.coverage" NAME="use_threadlocal Coverage Results" MODIFIED="1557589233476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$prime_number.coverage" NAME="prime_number Coverage Results" MODIFIED="1556883991499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$clock__1_.coverage" NAME="clock (1) Coverage Results" MODIFIED="1557240387801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$which_day.coverage" NAME="which_day Coverage Results" MODIFIED="1557060010268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$craps.coverage" NAME="craps Coverage Results" MODIFIED="1556941350264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$Joseph_ring.coverage" NAME="Joseph_ring Coverage Results" MODIFIED="1557062750172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$do_save.coverage" NAME="do_save Coverage Results" MODIFIED="1557586220220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$task_worker.coverage" NAME="task_worker Coverage Results" MODIFIED="1557590688597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$task_master.coverage" NAME="task_master Coverage Results" MODIFIED="1557590686229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$entry_text.coverage" NAME="entry_text Coverage Results" MODIFIED="1557494379071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/img" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$checkbutton.coverage" NAME="checkbutton Coverage Results" MODIFIED="1557495613967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$dict.coverage" NAME="dict Coverage Results" MODIFIED="1557056440444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1557632644397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$narcissistic_number.coverage" NAME="narcissistic_number Coverage Results" MODIFIED="1556934481460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$list_box.coverage" NAME="list_box Coverage Results" MODIFIED="1557495090081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$process_1.coverage" NAME="process-1 Coverage Results" MODIFIED="1557579412545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$class_thread.coverage" NAME="class_thread Coverage Results" MODIFIED="1557588082400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$canvas.coverage" NAME="canvas Coverage Results" MODIFIED="1557495885527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$ultraman.coverage" NAME="ultraman Coverage Results" MODIFIED="1557241840492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$five_fish.coverage" NAME="five_fish Coverage Results" MODIFIED="1556940302823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
     <SUITE FILE_PATH="coverage/my_pthon_100$poly_morphism.coverage" NAME="poly_morphism Coverage Results" MODIFIED="1557241492150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$GCD_and_LCM.coverage" NAME="GCD_and_LCM Coverage Results" MODIFIED="1556884504813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4-循环结构" />
     <SUITE FILE_PATH="coverage/my_pthon_100$perfect_number.coverage" NAME="perfect_number Coverage Results" MODIFIED="1556936665166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5-总结和练习" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$frame.coverage" NAME="frame Coverage Results" MODIFIED="1557496221039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
     <SUITE FILE_PATH="coverage/my_pthon_100$button_label.coverage" NAME="button_label Coverage Results" MODIFIED="1557493856259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$person.coverage" NAME="person Coverage Results" MODIFIED="1557239076930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
     <SUITE FILE_PATH="coverage/my_pthon_100$filename.coverage" NAME="filename Coverage Results" MODIFIED="1557059168420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$salary.coverage" NAME="salary Coverage Results" MODIFIED="1557242526060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day9-面向对象进阶" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$do_threading.coverage" NAME="do_threading Coverage Results" MODIFIED="1557585882794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$radio.coverage" NAME="radio Coverage Results" MODIFIED="1557495328251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
-    <SUITE FILE_PATH="coverage/my_pthon_100$test.coverage" NAME="test Coverage Results" MODIFIED="1557318242366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/my_pthon_100$demo1_process.coverage" NAME="demo1_process Coverage Results" MODIFIED="1557632672516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day13-进程和线程~线程" />
     <SUITE FILE_PATH="coverage/my_pthon_100$_.coverage" NAME="# Coverage Results" MODIFIED="1557063546431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam" />
   </component>
   <component name="DatabaseView">
@@ -71,12 +99,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="text.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day11-文件和异常/text.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="533">
-                <caret line="255" column="292" selection-start-line="255" selection-start-column="292" selection-end-line="255" selection-end-column="292" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="234">
+                <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
               </first_editor>
               <second_editor />
             </state>
@@ -103,36 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day5-总结和练习/text.md" />
-        <option value="$PROJECT_DIR$/day5-总结和练习/test.py" />
-        <option value="$PROJECT_DIR$/day6-函数和模块的使用/text.md" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/str.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list1.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list2.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list3.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/list4.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/fibonacci.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/tuple.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/set.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/dict.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/carousel_text.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/code.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/filename.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/max.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/which_day.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/#.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py" />
-        <option value="$PROJECT_DIR$/day7-字符串和常用的数据结构/text.md" />
-        <option value="$PROJECT_DIR$/day8-面向对象编程基础/clock.py" />
-        <option value="$PROJECT_DIR$/day8-面向对象编程基础/point.py" />
-        <option value="$PROJECT_DIR$/day8-面向对象编程基础/text.md" />
-        <option value="$PROJECT_DIR$/day9-面向对象进阶/person.py" />
-        <option value="$PROJECT_DIR$/day9-面向对象进阶/triangle.py" />
-        <option value="$PROJECT_DIR$/day9-面向对象进阶/clock.py" />
         <option value="$PROJECT_DIR$/day9-面向对象进阶/is_a.py" />
         <option value="$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py" />
         <option value="$PROJECT_DIR$/day9-面向对象进阶/ultraman.py" />
@@ -151,9 +149,39 @@
         <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/menubar.py" />
         <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/frame.py" />
         <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/message_box.py" />
-        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md" />
         <option value="$PROJECT_DIR$/Day10-图形用户界面游戏开发~Pygame/text.md" />
         <option value="$PROJECT_DIR$/Day11-文件和异常/text.md" />
+        <option value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md" />
+        <option value="$PROJECT_DIR$/day12-字符串和正则表达式/phone_re.py" />
+        <option value="$PROJECT_DIR$/day12-字符串和正则表达式/text.md" />
+        <option value="$PROJECT_DIR$/day12-字符串和正则表达式/re_qq.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/process-1.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/no_process.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/process_fork.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/width_process.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/pool.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/connect_process.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程/text.md" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/do_threading.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/do_save.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~进程/sub_process.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~进程/text.md" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/do_thread.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/class_thread.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/deposit.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/with_lock.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/use_threadlocal.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/task_master.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/task_worker.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/text.md" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/demo1.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/demo1_process.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/demo2.py" />
+        <option value="$PROJECT_DIR$/Day13-进程和线程~线程/demo_process.py" />
+        <option value="$PROJECT_DIR$/Day-python进阶~十大经典排序算法/ten_sort.py" />
+        <option value="$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/ten_sort.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/README.md" />
       </list>
     </option>
   </component>
@@ -167,9 +195,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="385" />
-    <option name="y" value="16" />
-    <option name="width" value="1248" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -177,6 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,17 +215,22 @@
             <path>
               <item name="my-pthon-100" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-pthon-100" type="462c0819:PsiDirectoryNode" />
-              <item name="Day11-文件和异常" type="462c0819:PsiDirectoryNode" />
+              <item name="Day14-python进阶~十大经典排序算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-pthon-100" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-pthon-100" type="462c0819:PsiDirectoryNode" />
+              <item name="Day14-python进阶~十大经典排序算法" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Switch&#9;ACTION&#9;SwitchBootJdk&#10;swtich&#9;null&#9;null&#10;switch boot j&#9;ACTION&#9;SwitchBootJdk" />
+    <property name="SearchEverywhereHistoryKey" value="j&#9;ACTION&#9;EditorJoinLines&#10;Switch&#9;ACTION&#9;SwitchBootJdk&#10;swtich&#9;null&#9;null&#10;switch boot j&#9;ACTION&#9;SwitchBootJdk" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -205,11 +238,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter\img" />
-      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter" />
-      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\Day14-python进阶~十大经典排序算法" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\Day13-进程和线程~线程\img" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\Day13-进程和线程~线程" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\img\Day13-进程和线程~线程" />
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\Day13-进程和线程\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\Day14-python进阶~十大经典排序算法\img" />
       <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day10-图形用户界面开发~tkinter\img" />
       <recent name="C:\Users\月上秦少\Desktop\my-pthon-100\day8-面向对象编程基础" />
     </key>
@@ -226,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.message_box">
-    <configuration name="canvas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ten_sort">
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,18 +271,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13-进程和线程~线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/canvas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13-进程和线程~线程/demo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo1_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,18 +290,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13-进程和线程~线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/checkbutton.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13-进程和线程~线程/demo1_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="frame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,18 +309,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13-进程和线程~线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/frame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13-进程和线程~线程/demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="menubar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,18 +328,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day13-进程和线程~线程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/menubar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day13-进程和线程~线程/demo_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="message_box" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ten_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my-pthon-100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,31 +347,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-python进阶~十大经典排序算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day10-图形用户界面开发~tkinter/message_box.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-python进阶~十大经典排序算法/ten_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.checkbutton" />
-      <item itemvalue="Python.canvas" />
-      <item itemvalue="Python.menubar" />
-      <item itemvalue="Python.frame" />
-      <item itemvalue="Python.message_box" />
+      <item itemvalue="Python.demo1" />
+      <item itemvalue="Python.demo1_process" />
+      <item itemvalue="Python.demo2" />
+      <item itemvalue="Python.demo_process" />
+      <item itemvalue="Python.ten_sort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.message_box" />
-        <item itemvalue="Python.frame" />
-        <item itemvalue="Python.menubar" />
-        <item itemvalue="Python.canvas" />
-        <item itemvalue="Python.checkbutton" />
+        <item itemvalue="Python.ten_sort" />
+        <item itemvalue="Python.demo_process" />
+        <item itemvalue="Python.demo2" />
+        <item itemvalue="Python.demo1_process" />
+        <item itemvalue="Python.demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -353,31 +389,53 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30744338" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32901832" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.2772384" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.14670981" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33009708" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.27668846" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2124183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39590076" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3280757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2167756" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.27668846" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2124183" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32901832" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32932165" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39590076" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -409,273 +467,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
+      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day5-总结和练习/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/list4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-end-line="35" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/fibonacci.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="11" lean-forward="true" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/carousel_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/filename.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/max.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/which_day.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/double_ball.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/Joseph_ring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-346307403/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9828">
-          <caret line="546" column="4" selection-start-line="546" selection-start-column="4" selection-end-line="546" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/exam/game#.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="24" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7-字符串和常用的数据结构/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor relative-caret-position="14472">
-            <caret line="804" column="37" selection-start-line="804" selection-start-column="37" selection-end-line="804" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/oop-class.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/oop-zhihu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/clock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="22" lean-forward="true" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/point.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="66" column="10" lean-forward="true" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day8-面向对象编程基础/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/clock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/is_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="91" column="9" lean-forward="true" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/text.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="67">
-            <caret line="120" column="19" lean-forward="true" selection-start-line="120" selection-start-column="19" selection-end-line="120" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/salary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="86" lean-forward="true" selection-end-line="105" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/ultraman.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="154" column="7" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="7" />
-          <folding>
-            <element signature="e#95#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/card.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9-面向对象进阶/poly_morphism.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PYTHON/hello.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#95#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/button_label.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/list_box.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -739,17 +534,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#101#121#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day10-图形用户界面开发~tkinter/text.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="537" column="48" lean-forward="true" selection-end-line="558" selection-end-column="75" />
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -770,6 +562,250 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="533">
             <caret line="255" column="292" selection-start-line="255" selection-start-column="292" selection-end-line="255" selection-end-column="292" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12-字符串和正则表达式/re_qq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/img/process.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12-字符串和正则表达式/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3762">
+            <caret line="209" column="76" selection-start-line="209" selection-start-column="76" selection-end-line="209" selection-end-column="76" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/process_fork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/no_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="10" lean-forward="true" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/Python36/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="253" column="8" selection-start-line="253" selection-start-column="8" selection-end-line="253" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/width_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/connect_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="13" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/do_threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/subprocess.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/sub_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/do_save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/do_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/Python36/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="756" column="41" selection-start-line="756" selection-start-column="35" selection-end-line="756" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/class_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/deposit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/with_lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/Python36/Lib/multiprocessing/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4941">
+          <caret line="459" column="7" lean-forward="true" selection-start-line="459" selection-start-column="7" selection-end-line="459" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/use_threadlocal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/task_master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/task_worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/img/queue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~进程/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="331" column="14" lean-forward="true" selection-start-line="331" selection-start-column="14" selection-end-line="331" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="483">
+            <caret line="524" column="17" selection-start-line="524" selection-start-column="17" selection-end-line="524" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day12-字符串和正则表达式/phone_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/demo1_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day13-进程和线程~线程/demo_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day-python进阶~十大经典排序算法/ten_sort.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/140151tbt1kcsjbds6bsbd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/img/Classification-algorithm.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/img/bubble.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/img/radix.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/img/quick.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/ten_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="225" selection-start-line="225" selection-end-line="229" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day14-python进阶~十大经典排序算法/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="234">
+            <caret line="13" column="69" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
           </first_editor>
           <second_editor />
         </state>
